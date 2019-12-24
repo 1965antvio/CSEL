@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">CSEL</string>
+    <string name="second_activity" translatable="false">
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      Who We Are \n
+      Established in Padua in 1985 by a diverse group of intellectuals on the left, primarily members of the Italian Communist Party (PCI), \n
+      the Centro Studi Ettore Luccini (CSEL) is dedicated to the collection, conservation, and promotion of documentary sources
+      related to the history and collective memory of popular movements in the Veneto,
+      specifically the working-class and union movement. \n
+      We are named for a leading figure in the city’s cultural and political life in the 1950s and 1960s. \n
+      We are proud to call ourselves the Historical Archive and Library of the Workers’ and Popular Movement of the Veneto,
+      and to continue the mission of our founders to create a culture of democracy and solidarity. \n
+      Both the Superintendent of Archives and the Region of the Veneto have officially recognized the significance of our holdings.</string>
+    <string name="csel_ovvero_centro_studi_ettore_luccini">CSEL ovvero Centro Studi Ettore Luccini</string>
+  <string name="universita_degli_studi_di_padova">Università degli Studi di Padova</string>
+ </resources>
